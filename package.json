@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanquynet/nodejs-practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "practise",
+    "6.x",
+    "8.x",
+    "10.x"
+  ],
+  "author": "quy tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanquynet/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/tuanquynet/nodejs-practice#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
