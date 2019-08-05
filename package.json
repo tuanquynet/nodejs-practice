@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload-file-with-parsing": "node upload-file/parsing-multipart.js",
+    "upload-file-with-saving": "node upload-file/saving-multipart-into-file.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,7 @@
   },
   "homepage": "https://github.com/tuanquynet/nodejs-practice#readme",
   "dependencies": {
+    "busboy": "^0.3.1",
     "faker": "^4.1.0"
   }
 }
