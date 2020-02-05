@@ -1,0 +1,7 @@
+console.log('V8 Engine upgrage from 7.4 to 7.6')
+console.log('V8 Engine upgrage from 7.4 to 7.6')
+console.log('===== Features ===========')
+console.log('Async stack traces')
+console.log('Faster parsing of JavaScript')
+console.log('Faster calls with arguments mismatch')
+console.log('===== /Features ===========')
